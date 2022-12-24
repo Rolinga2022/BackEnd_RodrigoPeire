@@ -36,7 +36,7 @@ public class CDescripcionPers {
     }
     
     //para crear una nueva descripcion
-    @PreAuthorize("hasRole('ADMIN')")
+    
     @PostMapping("/create")
     public ResponseEntity<?> create(@RequestBody dtoDescripcionPers dtodesc) {
         
