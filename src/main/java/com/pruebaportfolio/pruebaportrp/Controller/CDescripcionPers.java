@@ -85,7 +85,7 @@ public class CDescripcionPers {
         
     }
     
-    @PreAuthorize("hasRole('ADMIN')")
+    
     @DeleteMapping("/delete/{id}")
     public ResponseEntity<?> delete(@PathVariable("id") int id){
         //valido si existe el id
