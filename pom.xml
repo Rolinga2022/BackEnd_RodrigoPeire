@@ -11,7 +11,7 @@
     <groupId>com.pruebaportfolio</groupId>
     <artifactId>pruebaportrp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>pruebaportrp</name>
+    <name>BackEnd_RodrigoPeire</name>
     <description>Prueba Portfolio RP</description>
     <properties>
         <java.version>17</java.version>
